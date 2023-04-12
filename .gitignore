@@ -1,0 +1,15 @@
+*.vsconfig
+*.jpg
+*.png
+*.mp4
+
+# Ignore all files in the .vs folder
+.vs/
+
+# Ignore all files in the .vscode folder
+.vscode/
+
+# Ignore all files in build
+build/
+
+media/
