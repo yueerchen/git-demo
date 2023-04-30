@@ -17,4 +17,8 @@ body {
     display: flex;
     size: 100px;
     border-radius: 200px;
+    border: #333;
+    border-color: transparent;
+    size: 100%;
+    
 }
