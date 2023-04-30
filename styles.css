@@ -15,5 +15,8 @@ body {
 .devops {
     background-color: #fff;
     font-size: large;
-    
+    color: #333;
+    background-repeat: no-repeat;
+    display: flex;
+
 }
