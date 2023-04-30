@@ -5,3 +5,4 @@ function showWelcomeMsg() {
 function generateCustomMsg(name) {
     alert("Welcome " + name);
 }
+
